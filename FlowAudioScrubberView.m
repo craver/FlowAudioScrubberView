@@ -1,6 +1,6 @@
 //
 //  FlowAudioScrubberView.m
-//  iFiles
+//  iFiles Some Update
 //
 //  Created by Tom on 11/14/16.
 //  Copyright © 2016 Tom Biel, Inc. All rights reserved.
@@ -62,8 +62,10 @@
       
       _thumbAnimationDuration = 0.1;
       
+       
       _downloadProgress = 0.0;
       
+       
 #ifdef AudioScrubberViewShowDebugColors
       self.backgroundColor = [[UIColor purpleColor] colorWithAlphaComponent:0.1];
 #endif
